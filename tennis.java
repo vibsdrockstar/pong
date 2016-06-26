@@ -27,6 +27,7 @@ public void paint(Graphics g){
 	else {	
 	p.draw(g);
 	b.draw(g);
+	}
 	
 }
 public void update(Graphics g){
