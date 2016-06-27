@@ -20,7 +20,7 @@ public AIPaddle(int player,Ball b){
 }
 	
 	public void draw(Graphics g) {
-	g.setColor(Color.white);
+	g.setColor(Color.black);
 	g.fillRect(x, (int)y, 40, 80);
 	
 		
