@@ -8,6 +8,7 @@ This is a ping pong game
 ![s7](https://cloud.githubusercontent.com/assets/18600300/15997566/3b47058e-3153-11e6-8769-05636b7f42ab.png)
 ![gamestart](https://cloud.githubusercontent.com/assets/18600300/16360746/6238d078-3b8f-11e6-8a03-6f6f0959f7b4.png)
 ![double](https://cloud.githubusercontent.com/assets/18600300/16360754/933403e6-3b8f-11e6-9c2b-e8752a4d467b.png)
+![game2](https://cloud.githubusercontent.com/assets/18600300/16366803/42e27eee-3c3a-11e6-8dc8-877278060da5.png)
 ![gameover](https://cloud.githubusercontent.com/assets/18600300/16360265/d7b3785e-3b75-11e6-8e2f-cde9cb78af51.png)
 
 
