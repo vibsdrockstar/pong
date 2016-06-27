@@ -21,7 +21,7 @@ public AIPaddle(int player,Ball b){
 	
 	public void draw(Graphics g) {
 	g.setColor(Color.white);
-	g.fillRect(x, (int)y, 20, 80);
+	g.fillRect(x, (int)y, 40, 80);
 	
 		
 	}
@@ -29,7 +29,7 @@ public AIPaddle(int player,Ball b){
 	
 	public void move() {
 		
-		y=b1.getY()-30;
+		y=b1.getY()-20;
 		if(y<0)
 			y=0;
 		if(y > 420)
