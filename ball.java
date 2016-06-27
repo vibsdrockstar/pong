@@ -22,8 +22,8 @@ public int getRandomDirection(){
 		return -1;
 	}
 public void draw(Graphics g){
-	g.setColor(Color.white);
-	g.fillOval((int)x-10,(int) y-10, 20, 20);
+	g.setColor(Color.green);
+	g.fillOval((int)x-20,(int) y-20, 30, 30);
 }
 public void checkPaddleCollision(Paddle p1, Paddle p2) {
 	if(x<=50){
